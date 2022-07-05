@@ -20,3 +20,6 @@ plt.plot(data[1],marker = '.',color='darkslateblue')
 plt.show()
 ```
 #### OUTPUT
+![alt text][logo]
+
+[logo]: https://github.com/jayantakumar/Hadoop-In-Action-Introductory-Patent-Dataset-Analysis/tree/master/finalOutput/output.png "Output"
