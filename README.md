@@ -1,5 +1,5 @@
 # Hadoop-In-Action-Introductory-Patent-Dataset-Analysis
-A basic introductory example of hadoops mapreduce libraries to load and analyse large datasets in this case a US patent dataset sourced from [here](https://www.nber.org/research/data/us-patents) , This is an implementation and extension of Ideas from the book *Hadoop in Action* by Chuck Lam.
+A basic introductory example of hadoops mapreduce libraries to load and analyse large datasets in this case a US patent dataset sourced from [cite75_99.txt](https://www.nber.org/research/data/us-patents)  , This is an implementation and extension of Ideas from the book *Hadoop in Action* by Chuck Lam.
 
 ## Idea
 
